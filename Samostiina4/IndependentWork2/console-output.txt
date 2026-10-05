@@ -1,0 +1,5 @@
+Створення товарів
+Товар 1 (основний конструктор): ID: 101, Name: Laptop, Price: 35 000,00 ₴, Category: Electronics, Stock: 5
+Товар 2 (скорочений конструктор): ID: 102, Name: Mouse, Price: 800,00 ₴, Category: Uncategorized, Stock: 0
+Товар 3 (конструктор копіювання): ID: 101, Name: Laptop, Price: 35 000,00 ₴, Category: Electronics, Stock: 5
+Оригінал і копія — той самий об’єкт: False.

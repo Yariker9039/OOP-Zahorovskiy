@@ -1,0 +1,13 @@
+Повідомлення через INotifier (імітація):
+Email: Нове завдання з ООП.
+SMS: Нове завдання з ООП.
+
+DatabaseAuthenticator (імітація):
+Користувач yaroslav: вхід успішний
+Користувач college\yaroslav: вхід відхилено
+Користувач yaroslav: вхід відхилено
+
+LdapAuthenticator (імітація):
+Користувач yaroslav: вхід відхилено
+Користувач college\yaroslav: вхід успішний
+Користувач yaroslav: вхід відхилено

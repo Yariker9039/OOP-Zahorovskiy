@@ -1,0 +1,9 @@
+  Determining projects to restore...
+  Restored lab12v7/lab12v7.csproj (in 1.21 sec).
+  Restored lab12v7.Tests/lab12v7.Tests.csproj (in 31.07 sec).
+  lab12v7 -> lab12v7/bin/Release/net10.0/lab12v7.dll
+  lab12v7.Tests -> lab12v7.Tests/bin/Release/net10.0/lab12v7.Tests.dll
+Test run for lab12v7.Tests/bin/Release/net10.0/lab12v7.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:    12, Skipped:     0, Total:    12, Duration: 92 ms - lab12v7.Tests.dll (net10.0)
